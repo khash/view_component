@@ -220,6 +220,7 @@ ViewComponent is built by over a hundred members of the community, including:
 * [Brightline](https://hellobrightline.com)
 * [City of Paris](https://www.paris.fr/)
 * [Clio](https://www.clio.com/)
+* [Cloud 66](https://cloud66.com)
 * [Cometeer](https://cometeer.com/)
 * [Consul](https://consulproject.org/en/)
 * [Cults.](https://cults3d.com/)
